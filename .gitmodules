@@ -1,0 +1,18 @@
+[submodule "papilo"]
+	path = papilo
+	url = https://github.com/scipopt/papilo.git
+[submodule "soplex"]
+	path = soplex
+	url = https://github.com/scipopt/soplex.git
+[submodule "zimpl"]
+	path = zimpl
+	url = https://github.com/scipopt/zimpl.git
+[submodule "mumps"]
+	path = mumps
+	url = https://github.com/coin-or-tools/ThirdParty-Mumps.git
+[submodule "ipopt"]
+	path = ipopt
+	url = https://github.com/coin-or/Ipopt.git
+[submodule "scip"]
+	path = scip
+	url = https://github.com/scipopt/scip.git
